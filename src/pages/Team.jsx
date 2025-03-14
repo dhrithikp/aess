@@ -5,7 +5,7 @@ const Team = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Akash JP",
+      name: "Akash J P",
       role: "Chairman",
       image: "https://randomuser.me/api/portraits/women/1.jpg",
       bio: "Ph.D. in Aerospace Engineering with over 15 years of experience in satellite systems.",
@@ -23,7 +23,7 @@ const Team = () => {
     },
     {
       id: 3,
-      name: "Dr. Emily Rodriguez",
+      name: "Rohan J R",
       role: "Secretary",
       image: "https://randomuser.me/api/portraits/women/3.jpg",
       bio: "Researcher in avionics and flight control systems with multiple patents.",
@@ -32,7 +32,7 @@ const Team = () => {
     },
     {
       id: 4,
-      name: "James Wilson",
+      name: "Atmajit Pattnaik",
       role: "Treasurer",
       image: "https://randomuser.me/api/portraits/men/4.jpg",
       bio: "Financial expert with a background in engineering management.",
@@ -41,8 +41,8 @@ const Team = () => {
     },
     {
       id: 5,
-      name: "Dr. Aisha Patel",
-      role: "Technical Program Chair",
+      name: "Gaurav I K",
+      role: "Junior Secretary",
       image: "https://randomuser.me/api/portraits/women/5.jpg",
       bio: "Specialist in space communications and navigation systems.",
       linkedin: "https://linkedin.com",
@@ -50,17 +50,17 @@ const Team = () => {
     },
     {
       id: 6,
-      name: "Robert Kim",
-      role: "Membership Chair",
+      name: "K Sai Chetan",
+      role: "Head of Events",
       image: "https://randomuser.me/api/portraits/men/6.jpg",
       bio: "Dedicated to growing the AESS community and member engagement.",
-      linkedin: "https://linkedin.com",
-      email: "robert.kim@ieee.org"
+      linkedin: "http://linkedin.com/in/sai-chetan-91abc",
+      email: "1by22is068@bmsit.in"
     },
     {
       id: 7,
-      name: "Dr. Lisa Thompson",
-      role: "Publications Chair",
+      name: "Shrikaa SP",
+      role: "Head of Events",
       image: "https://randomuser.me/api/portraits/women/7.jpg",
       bio: "Editor with extensive experience in technical publications and journals.",
       linkedin: "https://linkedin.com",
@@ -68,8 +68,8 @@ const Team = () => {
     },
     {
       id: 8,
-      name: "Carlos Mendez",
-      role: "Education Chair",
+      name: "Surya G",
+      role: "Executive Design Head",
       image: "https://randomuser.me/api/portraits/men/8.jpg",
       bio: "Passionate about aerospace education and student development.",
       linkedin: "https://linkedin.com",
@@ -77,8 +77,8 @@ const Team = () => {
     },
     {
       id: 9,
-      name: "Dr. Olivia Wang",
-      role: "Awards Chair",
+      name: "Sanjana Hanni",
+      role: "Media Head",
       image: "https://randomuser.me/api/portraits/women/9.jpg",
       bio: "Recognizing excellence in aerospace electronic systems research and applications.",
       linkedin: "https://linkedin.com",
@@ -86,8 +86,8 @@ const Team = () => {
     },
     {
       id: 10,
-      name: "David Okafor",
-      role: "Industry Relations",
+      name: "Saksham Agrawal",
+      role: "R&D Head",
       image: "https://randomuser.me/api/portraits/men/10.jpg",
       bio: "Building bridges between academia and industry in aerospace technology.",
       linkedin: "https://linkedin.com",
@@ -95,8 +95,8 @@ const Team = () => {
     },
     {
       id: 11,
-      name: "Jennifer Lee",
-      role: "Student Activities Chair",
+      name: "Baljeet Kumar Patel",
+      role: "R&D Co-Head",
       image: "https://randomuser.me/api/portraits/women/11.jpg",
       bio: "Dedicated to supporting student chapters and young professionals.",
       linkedin: "https://linkedin.com",
@@ -104,8 +104,8 @@ const Team = () => {
     },
     {
       id: 12,
-      name: "Thomas Schmidt",
-      role: "Conference Chair",
+      name: "K Sai Geethanjali",
+      role: "Research Co-ordinator",
       image: "https://randomuser.me/api/portraits/men/12.jpg",
       bio: "Organizing international conferences and technical meetings.",
       linkedin: "https://linkedin.com",
@@ -113,8 +113,8 @@ const Team = () => {
     },
     {
       id: 13,
-      name: "Dr. Maria Gonzalez",
-      role: "Standards Committee Chair",
+      name: "Dhrithi K P",
+      role: "Web Master",
       image: "https://randomuser.me/api/portraits/women/13.jpg",
       bio: "Leading efforts in standards development for aerospace systems.",
       linkedin: "https://linkedin.com",
@@ -122,8 +122,8 @@ const Team = () => {
     },
     {
       id: 14,
-      name: "John Nguyen",
-      role: "Chapter Coordinator",
+      name: "Abdul Aijaz",
+      role: "Web Master",
       image: "https://randomuser.me/api/portraits/men/14.jpg",
       bio: "Supporting local AESS chapters worldwide and fostering community.",
       linkedin: "https://linkedin.com",
@@ -132,8 +132,8 @@ const Team = () => {
     },
     {
       id: 15,
-      name: "Dr. Rachel Cohen",
-      role: "Distinguished Lecturer",
+      name: "Hemanth S",
+      role: "Technical Head",
       image: "https://randomuser.me/api/portraits/women/15.jpg",
       bio: "Expert in satellite communications sharing knowledge globally.",
       linkedin: "https://linkedin.com",
@@ -141,8 +141,8 @@ const Team = () => {
     },
     {
       id: 16,
-      name: "Samuel Park",
-      role: "Webmaster",
+      name: "Harshini Mahesh",
+      role: "Technical Co-Head",
       image: "https://randomuser.me/api/portraits/men/16.jpg",
       bio: "Managing digital presence and technical infrastructure.",
       linkedin: "https://linkedin.com",
@@ -151,8 +151,8 @@ const Team = () => {
     },
     {
       id: 17,
-      name: "Dr. Fatima Al-Zahra",
-      role: "Research Coordinator",
+      name: "Athmabhiram S J",
+      role: "Tech Assist",
       image: "https://randomuser.me/api/portraits/women/17.jpg",
       bio: "Coordinating research initiatives and collaborative projects.",
       linkedin: "https://linkedin.com",
@@ -161,24 +161,14 @@ const Team = () => {
     },
     {
       id: 18,
-      name: "Daniel Martinez",
-      role: "Social Media Manager",
+      name: "Balaram Pai H",
+      role: "Projects Lead",
       image: "https://randomuser.me/api/portraits/men/18.jpg",
       bio: "Building our online community and digital engagement.",
       linkedin: "https://linkedin.com",
       twitter: "https://twitter.com",
       email: "daniel.martinez@ieee.org"
     },
-    {
-      id: 19,
-      name: "Dr. Sophia Williams",
-      role: "Ethics Committee Chair",
-      image: "https://randomuser.me/api/portraits/women/19.jpg",
-      bio: "Ensuring ethical standards in aerospace research and applications.",
-      linkedin: "https://linkedin.com",
-      twitter: "https://twitter.com",
-      email: "sophia.williams@ieee.org"
-    }
   ];
 
   return (
